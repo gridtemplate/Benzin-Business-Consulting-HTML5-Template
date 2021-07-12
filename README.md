@@ -67,3 +67,46 @@ Specially designed for agencies and businesses. So anyone can use this for consu
 
 </tbody>
 </table>
+<p>👉🏻<a href="https://preview.gridtemplate.com/demo/benzin/" rel="nofollow">View Live Preview</a></p>
+
+<h2>App pages: </h2>
+<ul>
+<li>01_Homepage</li>
+<li>02_Homepage</li>
+<li>03_About</li>
+<li>04_Service</li>
+<li>05_Service details</li>
+<li>06_Portfolio</li>
+<li>07_Portfolio details</li>
+<li>08_Pricing</li>
+<li>09_Blog</li>
+<li>10_Blog details</li>
+<li>11_Contact</li>
+<li>12_404 page</li>
+</ul>
+
+<h2>Download And installation</h2>
+<p>Download this template from any following options:</p>
+<ul>
+<li>Download from Github</li>
+<li>Clone the repository: <code>git clone https://github.com/gridtemplate/Benzin-Business-Consulting-HTML5-Template.git</code></li>
+<li>Download from GridTemplate</li>
+</ul>
+
+
+<h2>Full Technical Support or Questions</h2>
+<p>If you have questions or need help integrating the product please <a href="mailto:support@gridtemplate.com">contact us</a> instead of opening an issue.</p>
+
+<h2>Sources and Credits::-</h2>
+<ul>
+<li><strong>Bootstrap v5+</strong>: <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" rel="nofollow">https://getbootstrap.com/docs/5.0/getting-started/introduction/</a></li>
+<li><strong>Jquery v3.5.1</strong>: <a href="https://jquery.com/download/" rel="nofollow">https://jquery.com/download/</a></li>
+<li><strong>Roboto</strong>: <a href="https://fonts.google.com/specimen/Roboto" rel="nofollow">https://fonts.google.com/specimen/Roboto</a></li>
+<li><strong>Montserrat</strong>: <a href="https://fonts.google.com/specimen/Montserrat" rel="nofollow">https://fonts.google.com/specimen/Montserrat</a></li>
+<li><strong>Flaticon</strong>: <a href="https://www.flaticon.com/" rel="nofollow">https://www.flaticon.com/</a></li>
+
+</ul>
+
+<h2>Images:</h2>
+The images used in the template are not included in the main download file, they are only for the preview purpose.
+
