@@ -72,7 +72,7 @@ Specially designed for agencies and businesses. So anyone can use this for consu
 </table>
 <p>👉🏻<a href="https://preview.gridtemplate.com/demo/benzin/" rel="nofollow">View Live Preview</a></p>
 
-<h2>App pages: </h2>
+<h2>Template pages: </h2>
 <ul>
 <li>01_Homepage</li>
 <li>02_Homepage</li>
